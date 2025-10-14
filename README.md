@@ -1,4 +1,10 @@
 <h1 align="center">👋 Hi, I'm Daniel Pilant</h1>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Where+logic+meets+myth%2C+and+systems+come+alive." alt="typing animation" />
+  </a>
+</p>
+
 <h3 align="center">Where logic meets myth, and systems come alive.</h3>
 
 <p align="center">
