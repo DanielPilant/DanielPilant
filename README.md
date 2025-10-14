@@ -42,6 +42,5 @@
 ---
 
 ### ⚡ Fun fact
-I’m building both a **graphics engine** and a **mythological universe** — sometimes they merge.
 
 ---
