@@ -1,11 +1,12 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Daniel%20Pilant&fontColor=EAF2F8&fontSize=44&fontAlignY=32&animation=fadeIn" width="100%" />
+
+
 <h1 align="center">👋 Hi, I'm Daniel Pilant</h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Where+logic+meets+myth%2C+and+systems+come+alive." alt="typing animation" />
   </a>
 </p>
-
-<h3 align="center">Where logic meets myth, and systems come alive.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=danielpilant&label=Profile%20views&color=0e75b6&style=flat" alt="danielpilant" />
