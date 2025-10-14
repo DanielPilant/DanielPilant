@@ -9,24 +9,11 @@
 
 ### 🔭 Currently working on
 - 🚀 [**Self_Luz**](https://github.com/DanielPilant/self_luz) – a personal productivity app (Flutter + SQLite)
-- 💡 **MissionForce 2025** – volunteer management system in .NET (WPF layered architecture)
-- 🌌 **Ray-Tracing Engine (Java)** – physically based renderer with BVH, reflections & soft shadows  
-- 🧠 **DevLev Community** – building the next generation of student tech leaders  
 
 ---
 
 ### 🌱 Currently learning
 - Flutter, C++, and full-stack web development (Next.js + Tailwind + TypeScript)  
-- Advanced OS & Networking fundamentals  
-- Physics simulation and rendering theory  
-- Philosophy of mind & time (for narrative worldbuilding)
-
----
-
-### 🤝 Looking to collaborate on
-- Open-source engines & creative systems  
-- AI-enhanced productivity tools  
-- Educational & community-driven tech projects  
 
 ---
 
