@@ -33,7 +33,7 @@
 ### 📫 How to reach me
 <p align="left">
   <a href="mailto:doubledan148@gmail.com"><img src="https://img.shields.io/badge/Email-doubledan148@gmail.com-red?style=flat-square&logo=gmail" /></a>
-  <a href="[https://linkedin.com/in/daniel-pilant](https://www.linkedin.com/in/danielpilant/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Pilant-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/danielpilant/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Daniel_Pilant-blue?style=flat-square&logo=linkedin" /></a>
   <a href="https://danielpilant.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-danielpilant.vercel.app-black?style=flat-square&logo=vercel" /></a>
 </p>
 
