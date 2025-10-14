@@ -5,9 +5,9 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/DanielPilant/DanielPilant/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</p> -->
 
 
 <p align="center">
