@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Daniel%20Pilant&fontColor=EAF2F8&fontSize=44&fontAlignY=32&animation=fadeIn" width="100%" />
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Where+logic+meets+myth%2C+and+systems+come+alive." alt="typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Where+logic+meets+myth%2C+and+systems+come+alive.;Building+realities+from+code+and+consciousness.;Engineering+order+from+chaos.;Rendering+light%2C+matter%2C+and+meaning.;Designing+worlds+that+think.;Between+science+and+story%2C+I+build+truth.;Code+is+my+language%2C+creation+is+my+goal." alt="typing animation" />
   </a>
 </p>
 
