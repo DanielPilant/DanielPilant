@@ -13,7 +13,7 @@
 ---
 
 ### 🌱 Currently learning
-- Flutter, C++, and full-stack web development (Next.js + Tailwind + TypeScript)  
+- Flutter, and full-stack web development (Next.js + Tailwind + TypeScript)
 
 ---
 
