@@ -53,15 +53,15 @@
 
 #### 💻 Windows Systems Engineering (153004)
 Designing and implementing **modern desktop systems** using **Python (PyQt, FastAPI, Microservices, CQRS, RESTful APIs)** and cloud-based architectures.  
-Focus on **cross-platform solutions**, **agentic AI**, and **UI/UX design patterns** for scalable, modular systems. :contentReference[oaicite:0]{index=0}
+Focus on **cross-platform solutions**, **agentic AI**, and **UI/UX design patterns** for scalable, modular systems.
 
 #### 🧩 Software Engineering (151060)
 Hands-on development using **Agile and classical models**, with tools like **Azure DevOps**, **GitHub Copilot**, and **CI/CD pipelines**.  
-Emphasis on **requirements analysis**, **architecture design**, **process management**, and **software quality assurance (QA)**. :contentReference[oaicite:1]{index=1}
+Emphasis on **requirements analysis**, **architecture design**, **process management**, and **software quality assurance (QA)**.
 
 #### 🌐 Advanced Computer Networks (156336)
 Exploring the **core protocols of the Internet stack** — HTTP, DNS, TCP/UDP, IP, and more — through **Wireshark**, **Scapy**, and **Python socket programming**.  
-Covers **encryption (TLS/QUIC)**, **network security**, and **hands-on packet analysis and research projects**. :contentReference[oaicite:2]{index=2}
+Covers **encryption (TLS/QUIC)**, **network security**, and **hands-on packet analysis and research projects**. 
 
 #### 🧠 Software Interface Design & Analysis
 Focusing on **interaction models**, **UI evaluation methods**, and **cognitive principles** of interface design.  
