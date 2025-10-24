@@ -42,6 +42,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,linux,flutter,python,mysql,azure" />
 </p>
 
+### ⚙️ Proficient In
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,dotnet,cs,java,figma,git,windows" />
+</p>
+
 ### 📚 Currently Studying
 
 #### 💻 Windows Systems Engineering (153004)
