@@ -19,9 +19,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
 </p>
 
-### 🌱 Currently learning
-- Flutter, full-stack web development (Next.js + Tailwind + TypeScript), and cloud deployment (Azure)
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
 </p>
