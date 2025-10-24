@@ -49,6 +49,33 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,linux,flutter,python,mysql,azure" />
 </p>
 
+### 📚 Currently Studying
+
+#### 💻 Windows Systems Engineering (153004)
+Designing and implementing **modern desktop systems** using **Python (PyQt, FastAPI, Microservices, CQRS, RESTful APIs)** and cloud-based architectures.  
+Focus on **cross-platform solutions**, **agentic AI**, and **UI/UX design patterns** for scalable, modular systems. :contentReference[oaicite:0]{index=0}
+
+#### 🧩 Software Engineering (151060)
+Hands-on development using **Agile and classical models**, with tools like **Azure DevOps**, **GitHub Copilot**, and **CI/CD pipelines**.  
+Emphasis on **requirements analysis**, **architecture design**, **process management**, and **software quality assurance (QA)**. :contentReference[oaicite:1]{index=1}
+
+#### 🌐 Advanced Computer Networks (156336)
+Exploring the **core protocols of the Internet stack** — HTTP, DNS, TCP/UDP, IP, and more — through **Wireshark**, **Scapy**, and **Python socket programming**.  
+Covers **encryption (TLS/QUIC)**, **network security**, and **hands-on packet analysis and research projects**. :contentReference[oaicite:2]{index=2}
+
+#### 🧠 Software Interface Design & Analysis
+Focusing on **interaction models**, **UI evaluation methods**, and **cognitive principles** of interface design.  
+Combines usability engineering with **data-driven design**, **wireframing**, and **prototyping** for software systems.
+
+#### ⚙️ Full-Stack Development
+Building **end-to-end web applications** using **Next.js, React, TailwindCSS, TypeScript, and SQL**.  
+Emphasis on **frontend–backend integration**, **authentication**, and **deployment** to **Azure Cloud**.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
+</p>
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
 </p>
