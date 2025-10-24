@@ -41,7 +41,7 @@
 
 ### ⚙️ Proficient In
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,dotnet,cs,java,figma,git,sqflite,windows" />
+  <img src="https://skillicons.dev/icons?i=cpp,dotnet,cs,java,figma,git,windows" />
 </p>
 
 ### 🌱 Currently Learning
