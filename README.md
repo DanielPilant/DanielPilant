@@ -68,11 +68,6 @@ Emphasis on **frontend–backend integration**, **authentication**, and **deploy
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
 </p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
-</p>
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danielpilant&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
