@@ -13,7 +13,7 @@
 </p>
 
 ### 🔭 Currently working on
-- 🚀 [**Self_Luz**](https://github.com/DanielPilant/self_luz) – a personal productivity app (Flutter + SQLite)
+- 🚀 **Academic Projects** – Building a full-stack web application and designing end-to-end database architectures.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
@@ -39,30 +39,38 @@
 
 ### 🌱 Currently Learning
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,nextjs,linux,flutter,python,mysql,azure" />
+  <img src="https://skillicons.dev/icons?i=r,postgres,docker,python,nodejs,react,mongodb,mysql" />
 </p>
 
 ### 📚 Currently Studying
 
-#### 💻 Windows Systems Engineering (153004)
-Designing and implementing **modern desktop systems** using **Python (PyQt, FastAPI, Microservices, CQRS, RESTful APIs)** and cloud-based architectures.  
-Focus on **cross-platform solutions**, **agentic AI**, and **UI/UX design patterns** for scalable, modular systems.
+#### [cite_start]🤖 Intro to AI & Data Science (157100) [cite: 3, 5]
+* [cite_start]Exploring the theoretical and algorithmic foundations of **Artificial Intelligence** and **Machine Learning**[cite: 7, 8].
+* [cite_start]Building smart programs using **Python**, covering search algorithms, Supervised/Unsupervised Learning, and Neural Networks[cite: 13, 16].
 
-#### 🧩 Software Engineering (151060)
-Hands-on development using **Agile and classical models**, with tools like **Azure DevOps**, **GitHub Copilot**, and **CI/CD pipelines**.  
-Emphasis on **requirements analysis**, **architecture design**, **process management**, and **software quality assurance (QA)**.
+#### [cite_start]🗄️ Database Mini Project (150225) [cite: 45, 46]
+* [cite_start]Hands-on design and implementation of database systems[cite: 49].
+* [cite_start]Building an end-to-end project using **PostgreSQL** and **Docker**, focusing on **ERD modeling**, complex SQL queries, and system integration[cite: 51, 52, 62, 63].
 
-#### 🌐 Advanced Computer Networks (156336)
-Exploring the **core protocols of the Internet stack** — HTTP, DNS, TCP/UDP, IP, and more — through **Wireshark**, **Scapy**, and **Python socket programming**.  
-Covers **encryption (TLS/QUIC)**, **network security**, and **hands-on packet analysis and research projects**. 
+#### [cite_start]✔️ Software QA & Testing (157107) [cite: 97]
+* [cite_start]Studying software quality metrics and testing methodologies[cite: 103, 104].
+* [cite_start]Covering **Dynamic and Static Testing**, code coverage, and complexity measures like McCabe[cite: 107, 108, 186].
 
-#### 🧠 Software Interface Design & Analysis
-Focusing on **interaction models**, **UI evaluation methods**, and **cognitive principles** of interface design.  
-Combines usability engineering with **data-driven design**, **wireframing**, and **prototyping** for software systems.
+#### [cite_start]📐 Object-Oriented Design & Programming (157109) [cite: 221, 222]
+* [cite_start]Mastering system architecture using **UML**, **SOLID principles**, and **Design Patterns**[cite: 227].
+* [cite_start]Applying advanced programming concepts like Generics and Streams[cite: 228].
 
-#### ⚙️ Full-Stack Development
-Building **end-to-end web applications** using **Next.js, React, TailwindCSS, TypeScript, and SQL**.  
-Emphasis on **frontend–backend integration**, **authentication**, and **deployment** to **Azure Cloud**.
+#### [cite_start]📈 Big Data (157115) [cite: 329, 331]
+* [cite_start]Analyzing massive datasets using **R**[cite: 336].
+* [cite_start]Building data warehouses, performing text analysis, and implementing **Machine Learning** models like Recommender Systems[cite: 338, 350].
+
+#### [cite_start]🕵️ Intro to Reversing (157130) [cite: 394, 395]
+* [cite_start]Diving into **Reverse Engineering** and malware research[cite: 398].
+* [cite_start]Learning **x86 Assembly**, static/dynamic analysis using **IDA Pro**, and code obfuscation techniques[cite: 401, 409, 412].
+
+#### [cite_start]🌐 Full-Stack Web Development (151030) [cite: 438, 439]
+* [cite_start]Building complete end-to-end web applications[cite: 463].
+* [cite_start]Focusing on modern web technologies including **ReactJS, NodeJS, Express, MongoDB, and MySQL**[cite: 447].
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
