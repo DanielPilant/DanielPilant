@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Daniel%20Pilant&fontColor=EAF2F8&fontSize=44&fontAlignY=32&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Software+Engineering+Student+%40+JCT;Co-Founder+of+DevLev+%E2%80%94+JCT+Developer+Community;Building+AI+Agents%2C+Full-Stack+Apps+%26+Physics+Engines;3rd+Place+%E2%80%94+JCT+Hackathon+2024;Open+to+Student+%26+Entry-Level+Engineering+Roles" alt="typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&center=true&vCenter=true&width=900&lines=Where+logic+meets+myth%2C+and+systems+come+alive.;Building+realities+from+code+and+consciousness.;Engineering+order+from+chaos.;Rendering+light%2C+matter%2C+and+meaning.;Designing+worlds+that+think.;Between+science+and+story%2C+I+build+truth.;Code+is+my+language%2C+creation+is+my+goal." alt="typing animation" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ Co-founder of **DevLev**, JCT's developer student club — running workshops, ha
 
 ### Web
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,html,css" />
 </p>
 
 ### Desktop & Mobile
