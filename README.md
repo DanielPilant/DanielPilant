@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-3rd-year **Software Engineering** student at JCT (GPA: 85) building production-grade systems across full-stack web, AI agent pipelines, and desktop applications.
+3rd-year **Software Engineering** student at JCT building production-grade systems across full-stack web, AI agent pipelines, and desktop applications.
 
 Co-founder of **DevLev**, JCT's developer student club — running workshops, hack nights, and events that connect students with real-world engineering. Also a Perach Project Coordinator, overseeing educational mentorship programs across The Israel Museum, Infinity Project, and Code Plus.
 
