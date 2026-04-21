@@ -137,7 +137,9 @@ A .NET 8 WPF desktop application for coordinating non-profit volunteer operation
   <img src="https://github-readme-stats.vercel.app/api?username=danielpilant&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpilant&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
 </p>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F2937&section=footer&height=2&reversal=true&animation=scaleIn" width="90%" />
+</p>
 ---
 
 ## 📫 Get In Touch
