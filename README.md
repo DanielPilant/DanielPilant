@@ -12,16 +12,11 @@
 
 ## 👋 About Me
 
-3rd-year **Software Engineering** student at JCT building production-grade systems across full-stack web, AI agent pipelines, and desktop applications.
+3rd-year **Software Engineering** student at JCT transitioning my core focus toward building robust backend architectures and scalable data pipelines. 
 
-Co-founder of **DevLev**, JCT's developer student club — running workshops, hack nights, and events that connect students with real-world engineering. Also a Perach Project Coordinator, overseeing educational mentorship programs across The Israel Museum, Infinity Project, and Code Plus.
+I have a deep passion for **Backend Development, System Design, and DevOps**. Alongside my academic foundation, I've dived into full-stack development with a heavy emphasis on Node.js, Express, and MySQL. I thrive on designing clean REST APIs, orchestrating microservices, and crafting reliable CI/CD workflows. 
 
----
-
-## 🔭 Currently Working On
-
-- 🎮 **Gravity Simulation** — A physics sandbox in Python + Pygame running at 144 FPS. Selectable gravity models (Earth / Moon / Sun), three surface friction types, elastic square-to-square collisions with coefficient of restitution, and drag-to-throw mouse interaction.
-- 🌐 **Portfolio Website** — Built with Next.js 15, Tailwind CSS v4, and Framer Motion · [danielpilant.vercel.app](https://danielpilant.vercel.app)
+Whether it's containerizing environments with Docker and Docker Compose, building event-driven systems with Kafka, deploying with GitHub Actions, or exploring data processing with Spark, I am constantly exploring the mechanics of how complex, distributed systems operate, scale, and communicate.
 
 ---
 
@@ -32,6 +27,14 @@ Co-founder of **DevLev**, JCT's developer student club — running workshops, ha
   <img src="https://skillicons.dev/icons?i=py,ts,js,cs,cpp,java" />
 </p>
 
+### Backend & Web
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,react,html,css" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=flat-square" />
+</p>
+
 ### AI & Agents
 <p align="left">
   <img src="https://skillicons.dev/icons?i=fastapi" />
@@ -39,84 +42,25 @@ Co-founder of **DevLev**, JCT's developer student club — running workshops, ha
   <img src="https://img.shields.io/badge/LangGraph-0A0A0A?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-0A0A0A?style=flat-square&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-005571?style=flat-square" />
   <img src="https://img.shields.io/badge/Llama%203.1-FF6F00?style=flat-square" />
   <img src="https://img.shields.io/badge/MCP-1a1a2e?style=flat-square" />
 </p>
 
-### Web
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,html,css" />
-</p>
-
-### Desktop & Mobile
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,flutter" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PySide6-41CD52?style=flat-square&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pygame-gold?style=flat-square&logo=python&logoColor=black" />
-</p>
-
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,sqlite,supabase" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,supabase" />
 </p>
 
-### Infrastructure & Tools
+### Architecture, Data & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,figma,notion" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,figma,notion" />
   &nbsp;
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-008ECF?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-4A154B?style=flat-square" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 [AI-Powered Browser Automation & QA Platform](https://github.com/DanielPilant/Hackathon_EX_1)
-> *Hackathon 2025 · Personal Project*
-
-A production-grade platform that controls a real Chromium browser with natural language, streams a live JPEG feed to a React dashboard at 20 FPS, and automatically classifies failures through a three-stage AI pipeline (rule-based classifier → LLM explainer). Containerized across 13 Docker services with full observability: Grafana, Prometheus, Loki, Tempo, and OpenTelemetry.
-
-`Python` `FastAPI` `OpenAI Agents SDK` `Playwright MCP` `React 19` `Docker Compose` `OpenTelemetry` `WebSocket`
-
----
-
-### 🗺️ Live Trip — Real-Time Crowd Monitoring
-> *Academic · Software Engineering*
-
-Real-time crowd monitoring and trip planning web app with an interactive MapLibre GL map, live crowd density reports, weather integration, and Google OAuth via Supabase. Multi-language support (English, Hebrew, French) with full RTL rendering. E2E tested with Pytest + Selenium.
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `MapLibre GL` `Tailwind CSS` `Google OAuth`
-
----
-
-### 🛒 ShopMate AI Assistant
-> *Academic · Windows Systems Engineering*
-
-Microservices-based shopping assistant that identifies the single cheapest supermarket branch for a user's full cart in Israel. A LangGraph conversational agent (Llama 3.1) processes natural language, searches products via hybrid search, and runs a custom SQL optimization algorithm. Includes an LLM-as-a-Judge hallucination filter.
-
-`Python` `LangGraph` `Llama 3.1` `RAG` `FastAPI` `PostgreSQL` `PySide6` `Microservices`
-
----
-
-### ✨ Java Ray Tracing Engine
-> *Academic · Intro to Software Engineering Mini Project*
-
-A fully custom ray tracing engine built from first principles in pure Java — simulating physically-based reflections, refractions, and soft shadows with Phong shading, bounding-volume hierarchy acceleration, and multi-sample anti-aliasing.
-
-`Java` `OOP Design Patterns` `Linear Algebra` `Physics Simulation`
-
----
-
-### 🎯 [MissionForce — Volunteer Management System](https://github.com/DanielPilant/dotNet5785_1426_2126)
-> *Academic · Windows Systems Engineering Mini Project*
-
-A .NET 8 WPF desktop application for coordinating non-profit volunteer operations. Features a Material Design UI, real-time volunteer tracking, mission assignment workflows, and an embedded WebView2 component. Layered DAL / BL / PL architecture.
-
-`C#` `.NET 8` `WPF` `Material Design` `WebView2`
 
 ---
 
@@ -130,13 +74,6 @@ A .NET 8 WPF desktop application for coordinating non-profit volunteer operation
 | **Programming Teacher** | Perach Scholar Program | 2023 – 2025 |
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danielpilant&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielpilant&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
-</p>
 
 ## 🐍 Contribution Snake
 
